@@ -1,0 +1,20 @@
+{
+    "name": "eldelassombras/SanearString",
+    "description": "Clase Simple, casi inutil que permite limpiar cadenas de String",
+    "type": "library",
+	"keywords": ["String", "cadenas", "limpiar", "sanear", "php"],
+    "authors": [
+        {
+            "name": "Claudio Sanhueza",
+            "email": "eldelassombras@gmail.com",
+			"homepage": "https://github.com/eldelassombras/SanearString",
+			"role": "Developer"
+        }
+    ],
+    "require": {
+	"php": ">=5.5"
+	},
+	"autoload":{
+		"psr-4":{"eldelassombras\\SanearString":"src/"}
+	}
+}
