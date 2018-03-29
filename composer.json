@@ -7,7 +7,7 @@
         {
             "name": "Claudio Sanhueza",
             "email": "eldelassombras@gmail.com",
-			"homepage": "https://github.com/eldelassombras/SanearString",
+			"homepage": "https://github.com/eldelassombras/sanearstring",
 			"role": "Developer"
         }
     ],
@@ -15,6 +15,6 @@
 	"php": ">=5.5"
 	},
 	"autoload":{
-		"psr-4":{"eldelassombras\\SanearString":"src/"}
+		"psr-4":{"eldelassombras\\sanearstring":"src/"}
 	}
 }
