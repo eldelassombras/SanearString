@@ -1,13 +1,14 @@
 <?php
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+namespace eldelassombras\SanearString;
 
 /**
- * Description of SanearString
+ *
+ * Reemplaza todos los acentos por sus equivalentes sin ellos
+ *
+ * @param $string string la cadena a sanear
+ *
+ * @return $string string saneada
  *
  * @author csanhueza
  */
